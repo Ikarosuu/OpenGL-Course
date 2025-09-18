@@ -22,4 +22,7 @@
       <Filter>Arquivos de Recurso</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
 </Project>
