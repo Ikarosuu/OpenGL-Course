@@ -1,4 +1,2 @@
-﻿  glad.c
-  Main.cpp
-glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' não foi encontrado 'glfw3.lib(context.obj)' ou no 'C:\Users\Admin\Documents\projeto-node\OpenGLCourse\x64\Debug\glfw3.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+﻿  Main.cpp
   OpenGLCourse.vcxproj -> C:\Users\Admin\Documents\projeto-node\OpenGLCourse\x64\Debug\OpenGLCourse.exe
